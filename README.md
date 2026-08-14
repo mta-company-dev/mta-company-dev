@@ -21,7 +21,7 @@ I enjoy working on web development projects and creating useful applications wit
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,js,html,css)](https://skillicons.dev)
 
 ---
 
